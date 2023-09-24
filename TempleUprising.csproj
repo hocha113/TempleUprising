@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>TempleUprising</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\Dusts\" />
+    <Folder Include="Assets\Items\" />
+    <Folder Include="Assets\NPCs\" />
+    <Folder Include="Assets\Projectiles\" />
+    <Folder Include="Assets\Skys\" />
+    <Folder Include="Assets\Tiles\" />
+    <Folder Include="Assets\UIs\" />
+    <Folder Include="Content\NPCs\" />
+    <Folder Include="Content\Items\" />
+    <Folder Include="Content\Projectiles\" />
+    <Folder Include="Content\Dusts\" />
+    <Folder Include="Content\Tiles\" />
+    <Folder Include="Content\Skys\" />
+    <Folder Include="Content\UIs\" />
+    <Folder Include="NetCode\" />
+  </ItemGroup>
+</Project>
