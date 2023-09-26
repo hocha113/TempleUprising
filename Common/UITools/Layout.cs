@@ -1,6 +1,6 @@
 ﻿using Terraria.UI;
 
-namespace Wild.Common.UITools
+namespace TempleUprising.Common.UITools
 {
     public static class Layout
     {
