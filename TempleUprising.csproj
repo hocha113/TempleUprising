@@ -18,10 +18,15 @@
     <Folder Include="Assets\Skys\" />
     <Folder Include="Assets\Tiles\" />
     <Folder Include="Assets\UIs\" />
-    <Folder Include="Content\NPCs\" />
     <Folder Include="Content\Items\" />
-    <Folder Include="Content\Projectiles\" />
+    <Folder Include="Content\NPCs\JungleMonolith\" />
+    <Folder Include="Content\NPCs\AwakenedJungleMonolith\" />
+    <Folder Include="Content\NPCs\SunDeityStatue\" />
+    <Folder Include="Content\NPCs\TempleCreature\" />
     <Folder Include="Content\Dusts\" />
+    <Folder Include="Content\Projectiles\AwakenedJungleMonolithProjectiles\" />
+    <Folder Include="Content\Projectiles\SunDeityStatueProjectiles\" />
+    <Folder Include="Content\Projectiles\JungleMonolithProjectiles\" />
     <Folder Include="Content\Tiles\" />
     <Folder Include="Content\Skys\" />
     <Folder Include="Content\UIs\" />
