@@ -1,7 +1,7 @@
 ﻿using Terraria.GameContent.UI.BigProgressBar;
 using Terraria.ModLoader;
 
-namespace Wild.Common.UITools
+namespace TempleUprising.Common.UITools
 {
     /// <summary>
     /// 空血条，当不希望原版血条有任何行为时将其设置给 NPC.BossBar
