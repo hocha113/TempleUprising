@@ -18,6 +18,7 @@
     <Folder Include="Assets\Skys\" />
     <Folder Include="Assets\Tiles\" />
     <Folder Include="Assets\UIs\" />
+    <Folder Include="Assets\Items\Weapons\" />
     <Folder Include="Content\Items\" />
     <Folder Include="Content\NPCs\JungleMonolith\" />
     <Folder Include="Content\NPCs\AwakenedJungleMonolith\" />
