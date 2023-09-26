@@ -18,8 +18,8 @@
     <Folder Include="Assets\Skys\" />
     <Folder Include="Assets\Tiles\" />
     <Folder Include="Assets\UIs\" />
-    <Folder Include="Content\NPCs\" />
     <Folder Include="Content\Items\" />
+    <Folder Include="Content\NPCs\" />
     <Folder Include="Content\Projectiles\" />
     <Folder Include="Content\Dusts\" />
     <Folder Include="Content\Tiles\" />
