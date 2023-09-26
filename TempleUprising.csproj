@@ -8,31 +8,29 @@
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <ItemGroup>
-    <None Remove="Assets\Dusts\DOTO.txt" />
-    <None Remove="Assets\Items\DOTO.txt" />
-    <None Remove="Assets\Skys\DOTO.txt" />
-    <None Remove="Assets\Tiles\DOTO.txt" />
-    <None Remove="Assets\UIs\DOTO.txt" />
-    <None Remove="Content\Dusts\DOTO.txt" />
-    <None Remove="Content\Items\DOTO.txt" />
-    <None Remove="Content\NPCs\DOTO.txt" />
-    <None Remove="Content\Skys\DOTO.txt" />
-    <None Remove="Content\Tiles\DOTO.txt" />
-    <None Remove="Content\UIs\DOTO.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Assets\Dusts\" />
+    <Folder Include="Assets\Items\" />
     <Folder Include="Assets\NPCs\" />
     <Folder Include="Assets\Projectiles\" />
+    <Folder Include="Assets\Skys\" />
+    <Folder Include="Assets\Tiles\" />
+    <Folder Include="Assets\UIs\" />
+    <Folder Include="Assets\Items\Weapons\" />
+    <Folder Include="Content\Items\" />
     <Folder Include="Content\NPCs\JungleMonolith\" />
     <Folder Include="Content\NPCs\AwakenedJungleMonolith\" />
     <Folder Include="Content\NPCs\SunDeityStatue\" />
     <Folder Include="Content\NPCs\TempleCreature\" />
+    <Folder Include="Content\Dusts\" />
     <Folder Include="Content\Projectiles\AwakenedJungleMonolithProjectiles\" />
     <Folder Include="Content\Projectiles\SunDeityStatueProjectiles\" />
     <Folder Include="Content\Projectiles\JungleMonolithProjectiles\" />
+    <Folder Include="Content\Tiles\" />
+    <Folder Include="Content\Skys\" />
+    <Folder Include="Content\UIs\" />
     <Folder Include="NetCode\" />
   </ItemGroup>
 </Project>
